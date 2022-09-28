@@ -1,3 +1,16 @@
+<p align="center"><img src="https://ystuty.github.io/docs/assets/img/YSTUty_logo-text-without-bg-shadow.png" width="150"></p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/package-json/v/YSTUty/ystuty-lk-frontend?style=flat-square" alt="GitHub package.json version"/>
+  <img src="https://img.shields.io/github/last-commit/YSTUty/ystuty-lk-frontend?style=flat-square" alt="GitHub last commit"/>
+  <a href="https://vk.com/ystuty"><img src="https://img.shields.io/badge/Group-Join now-9cf?style=flat-square&logo=vk" alt="Join VK group now"/></a>
+</p>
+
+# [YSTUty] ЛК - Личный кабиенет
+>
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
